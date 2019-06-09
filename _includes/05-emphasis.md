@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Some of my awesome attributes includes professional experience with **C#**, **JavaScript**, **CSS/SASS**, **HTML/HTML5**,  __Umbraco__ and _Navision integration_.    
